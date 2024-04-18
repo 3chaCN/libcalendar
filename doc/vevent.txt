@@ -1,0 +1,9 @@
+    DTSTART : Date de début de l'événement
+    DTEND : Date de fin de l'événement
+    SUMMARY : Titre de l'événement
+    LOCATION : Lieu de l'événement
+    CATEGORIES : Catégorie de l'événement (ex: Conférence, Fête...)
+    STATUS : Statut de l'événement (TENTATIVE, CONFIRMED, CANCELLED)
+    DESCRIPTION : Description de l'événement
+    TRANSP : Définit si la ressource affectée à l'événement est rendu indisponible (OPAQUE, TRANSPARENT)
+    SEQUENCE : Nombre de mises à jour, la première mise à jour est à 1
